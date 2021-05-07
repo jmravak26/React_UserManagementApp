@@ -1,0 +1,10 @@
+.search{
+    border: 1px solid var(--borderColor);
+    border-radius: 1000px;
+    outline: none;
+    padding: var(--sizeS);
+    margin: 0;
+}
+.search:focus{
+    border-color: var(--themeColor);
+}
